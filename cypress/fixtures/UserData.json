@@ -1,0 +1,9 @@
+{
+  "BaseUrl":       "https://ticket-box.s3.eu-central-1.amazonaws.com/index.html",
+  "Fname":         "User",
+  "Lname":         "QA",
+  "Email":         "UserQA@teste.com.br",
+  "Qingresso":     "4",
+  "ReqEspecial":   "Teste QA",
+  "signature":     "User QA"
+}
